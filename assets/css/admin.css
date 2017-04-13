@@ -1,0 +1,8 @@
+.misc-pub-cardnumber{
+	display: none;
+}
+
+#giftcard_regenerate,
+#giftcard_usage {
+	min-height: 50px !important;
+}
