@@ -338,7 +338,7 @@ function wpr_add_giftcard_data_tab( $product_data_tabs ) {
 
 	$giftcard = array(
 				'giftcard' => array(
-					'label'  => __( 'Giftcard', 'woocommerce' ),
+					'label'  => __( 'Giftcard', 'rpgiftcards' ),
 					'target' => 'giftcard_product_data',
 					'class'  => array( 'hide_if_not_giftcard' ),
 				));
